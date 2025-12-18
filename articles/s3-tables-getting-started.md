@@ -3,7 +3,7 @@ title: "S3 Tablesを触る前に知っておきたかったこと"
 emoji: "🗃️"
 type: "tech"
 topics: ["aws", "s3", "iceberg", "athena", "データ分析"]
-published: false
+published: true
 ---
 
 ## はじめに
