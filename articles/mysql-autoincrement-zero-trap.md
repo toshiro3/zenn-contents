@@ -3,7 +3,7 @@ title: "MySQLでid=0をINSERTすると別のIDが入る罠"
 emoji: "🔢"
 type: "tech"
 topics: ["mysql", "laravel", "php", "テスト"]
-published: false
+published: true
 ---
 
 ## はじめに
