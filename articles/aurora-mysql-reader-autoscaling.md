@@ -3,7 +3,7 @@ title: "Aurora MySQLでオートスケーリング設定時に手動でReaderを
 emoji: "🐬"
 type: "tech"
 topics: ["aws", "aurora", "mysql", "rds"]
-published: false
+published: true
 ---
 
 ## はじめに
