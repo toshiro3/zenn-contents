@@ -3,7 +3,7 @@ title: "DynamoDBのデータをAthenaで分析可能にする構成を検証し�
 emoji: "🔍"
 type: "tech"
 topics: ["aws", "dynamodb", "athena", "dbt", "s3"]
-published: false
+published: true
 ---
 
 ## はじめに
