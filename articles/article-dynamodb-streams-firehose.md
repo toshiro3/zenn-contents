@@ -3,7 +3,7 @@ title: "DynamoDB Streams → Firehose → S3 → Athena のニアリアルタイ
 emoji: "🔥"
 type: "tech"
 topics: ["aws", "dynamodb", "firehose", "athena", "eventbridge"]
-published: false
+published: true
 ---
 
 ## はじめに
