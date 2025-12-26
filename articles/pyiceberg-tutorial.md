@@ -3,7 +3,7 @@ title: "Docker不要！uv + PyIcebergでApache Icebergのメタデータ構造�
 emoji: "🧊"
 type: "tech"
 topics: ["iceberg", "python", "uv", "datalake", "pyiceberg"]
-published: false
+published: true
 ---
 
 ## はじめに
