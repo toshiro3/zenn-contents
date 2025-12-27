@@ -3,7 +3,7 @@ title: "TrinoでIcebergテーブルをSQL分析する"
 emoji: "🔍"
 type: "tech"
 topics: ["ApacheIceberg", "Trino", "SQL", "DataEngineering", "Docker"]
-published: false
+published: true
 ---
 
 ## はじめに
