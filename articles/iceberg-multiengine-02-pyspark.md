@@ -3,7 +3,7 @@ title: "PySparkとPyIcebergでIcebergテーブルを相互運用する"
 emoji: "🔄"
 type: "tech"
 topics: ["ApacheIceberg", "PySpark", "PyIceberg", "DataEngineering", "Docker"]
-published: false
+published: true
 ---
 
 ## はじめに
