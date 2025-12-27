@@ -3,7 +3,7 @@ title: "Docker ComposeでApache Icebergマルチエンジン検証環境を構�
 emoji: "🧊"
 type: "tech"
 topics: ["ApacheIceberg", "PyIceberg", "Docker", "DataEngineering", "marimo"]
-published: false
+published: true
 ---
 
 ## はじめに
