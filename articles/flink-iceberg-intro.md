@@ -3,7 +3,7 @@ title: "Flink SQL入門 - DockerでIcebergテーブルを操作する"
 emoji: "🌊"
 type: "tech"
 topics: ["ApacheFlink", "ApacheIceberg", "Docker", "DataEngineering", "SQL"]
-published: false
+published: true
 ---
 
 ## はじめに
