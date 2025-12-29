@@ -105,8 +105,8 @@ Flink SQL Clientでは2つのカタログを使い分けます。
 
 **なぜ分けるのか？**
 
-- KafkaテーブルはWATERMARK定義が必要だが、IcebergカタログはWATERMARK付きテーブルをサポートしていない
-- Kafkaテーブルは「接続定義」、Icebergテーブルは「データの保存先」という役割の違い
+- KafkaテーブルはWATERMARK定義が必要だが、IcebergカタログのメタデータストアにはWATERMARK定義を永続化できないため、分離して管理する
+- `default_catalog`（インメモリ）をKafka接続定義の置き場にすることで、 **「消えても良い一時的な定義（Kafka）」と「永続化されるデータ資産（Iceberg）」** を論理的に整理できる
 
 ## 基本のストリーミング書き込み
 
