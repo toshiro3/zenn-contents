@@ -3,7 +3,7 @@ title: "Spark Structured Streaming + Kafka + Iceberg 環境構築（Docker Compo
 emoji: "🐳"
 type: "tech"
 topics: ["spark", "kafka", "iceberg", "docker", "streaming"]
-published: false
+published: true
 ---
 
 ## はじめに
