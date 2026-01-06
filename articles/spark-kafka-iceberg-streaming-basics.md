@@ -3,7 +3,7 @@ title: "Spark Structured Streaming で Kafka から Iceberg へストリーミ�
 emoji: "🌊"
 type: "tech"
 topics: ["spark", "kafka", "iceberg", "streaming", "python"]
-published: false
+published: true
 ---
 
 ## はじめに
