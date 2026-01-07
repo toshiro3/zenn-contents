@@ -3,7 +3,7 @@ title: "Spark Structured Streaming ウィンドウ集計と Watermark の挙動"
 emoji: "⏱️"
 type: "tech"
 topics: ["spark", "kafka", "iceberg", "streaming", "python"]
-published: false
+published: true
 ---
 
 ## はじめに
