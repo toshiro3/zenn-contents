@@ -3,7 +3,7 @@ title: "AWS Glue StreamingでKinesisからIcebergへリアルタイム書き込�
 emoji: "🌊"
 type: "tech"
 topics: ["aws", "glue", "iceberg", "kinesis", "streaming"]
-published: false
+published: true
 ---
 
 ## はじめに
