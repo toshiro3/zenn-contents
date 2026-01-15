@@ -3,7 +3,7 @@ title: "CodeBuild Batch で PHPUnit を並列実行できるか検証してみ�
 emoji: "🧪"
 type: "tech"
 topics: ["aws", "codebuild", "phpunit", "laravel", "ci"]
-published: false
+published: true
 ---
 
 ## はじめに
