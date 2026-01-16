@@ -3,7 +3,7 @@ title: "PHPUnit のテスト結果を CodeBuild と Allure Report で可視化�
 emoji: "📊"
 type: "tech"
 topics: ["aws", "codebuild", "phpunit", "allure", "ci"]
-published: false
+published: true
 ---
 
 ## はじめに
