@@ -3,7 +3,7 @@ title: "Debezium CDC入門 - Docker環境でMySQLからPostgreSQLへのリアル
 emoji: "🔄"
 type: "tech"
 topics: ["debezium", "cdc", "kafka", "mysql", "postgresql"]
-published: false
+published: true
 ---
 
 ## はじめに
