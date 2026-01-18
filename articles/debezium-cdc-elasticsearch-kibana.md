@@ -3,7 +3,7 @@ title: "Debezium CDC 実践編 - Elasticsearch + Kibanaでリアルタイム可�
 emoji: "📊"
 type: "tech"
 topics: ["debezium", "cdc", "elasticsearch", "kibana", "kafka"]
-published: false
+published: true
 ---
 
 ## はじめに
