@@ -3,7 +3,7 @@ title: "MaxwellでMySQLのbinlogをキャプチャする - Debeziumと比較し�
 emoji: "⚡"
 type: "tech"
 topics: ["MySQL", "CDC", "Maxwell", "Debezium", "Docker"]
-published: false
+published: true
 ---
 
 ## はじめに
