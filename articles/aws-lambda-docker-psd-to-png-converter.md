@@ -221,7 +221,7 @@ CMD ["app.lambda_handler"]
 
 ソースコードは以下からダウンロードできます。
 
-https://github.com/your-repo/lambda-psd-converter-demo
+https://github.com/toshiro3/lambda-psd-converter-demo
 
 ### 前提条件
 
