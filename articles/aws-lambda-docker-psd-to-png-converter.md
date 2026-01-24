@@ -3,7 +3,7 @@ title: "AWS Lambda + Docker + ImageMagickでPSD→PNG自動変換システムを
 emoji: "🎨"
 type: "tech"
 topics: ["aws", "lambda", "docker", "imagemagick", "python"]
-published: false
+published: true
 ---
 
 ## はじめに
