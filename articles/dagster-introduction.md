@@ -20,7 +20,7 @@ published: true
 - メタデータの出力とUIでの確認
 
 検証用のコードはGitHubで公開しています。
-https://github.com/toshiro3/workflow-orchestration-lab
+https://github.com/toshiro3/workflow-orchestration-lab/tree/v1-introduction
 
 ## Dagsterとは
 
@@ -683,4 +683,4 @@ Dagsterの特徴であるAsset-centricなアプローチにより、「何を作
 
 - [Dagster公式ドキュメント](https://docs.dagster.io/)
 - [Dagster GitHub](https://github.com/dagster-io/dagster)
-- [検証用リポジトリ](https://github.com/toshiro3/workflow-orchestration-lab)
+- [検証用リポジトリ](https://github.com/toshiro3/workflow-orchestration-lab/tree/v1-introduction)
