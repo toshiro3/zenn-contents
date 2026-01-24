@@ -3,7 +3,7 @@ title: "Dagster入門 - Docker Composeで始めるデータパイプライン"
 emoji: "🔷"
 type: "tech"
 topics: ["dagster", "docker", "python", "データエンジニアリング"]
-published: false
+published: true
 ---
 
 ## はじめに
