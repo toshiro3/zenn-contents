@@ -3,7 +3,7 @@ title: "Dagster入門② - ResourceとScheduleで実用的なパイプライン�
 emoji: "🔷"
 type: "tech"
 topics: ["dagster", "docker", "python", "データエンジニアリング"]
-published: false
+published: true
 ---
 
 ## はじめに
