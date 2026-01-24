@@ -3,7 +3,7 @@ title: "Dagster入門③ - Partitionでデータを分割管理する"
 emoji: "🔷"
 type: "tech"
 topics: ["dagster", "docker", "python", "データエンジニアリング"]
-published: false
+published: true
 ---
 
 ## はじめに
