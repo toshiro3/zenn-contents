@@ -3,7 +3,7 @@ title: "Laravel Pennantで機能フラグを試してみた"
 emoji: "🚩"
 type: "tech"
 topics: ["laravel", "php", "featureflag"]
-published: false
+published: true
 ---
 
 ## Laravel Pennantとは
