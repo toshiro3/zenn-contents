@@ -3,7 +3,7 @@ title: "dagster-dbtでDagsterとdbtを連携させてみた"
 emoji: "🔗"
 type: "tech"
 topics: ["dagster", "dbt", "postgresql", "docker", "dataengineering"]
-published: false
+published: true
 ---
 
 ## はじめに
