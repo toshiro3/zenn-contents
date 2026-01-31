@@ -3,7 +3,7 @@ title: "SlackからCodePipelineを実行するChatOpsを検証してみた"
 emoji: "🚀"
 type: "tech"
 topics: ["AWS", "CodePipeline", "Slack", "ChatOps", "AmazonQ"]
-published: false
+published: true
 ---
 
 ## はじめに
