@@ -3,7 +3,7 @@ title: "CodePipelineの実行結果をSlackに通知する2つの方法を試し
 emoji: "🔔"
 type: "tech"
 topics: ["aws", "codepipeline", "slack", "chatbot", "lambda"]
-published: false
+published: true
 ---
 
 ## はじめに
