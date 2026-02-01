@@ -3,7 +3,7 @@ title: "Prefect 3.0入門 - Docker Composeでローカル環境を構築してDa
 emoji: "🔄"
 type: "tech"
 topics: ["prefect", "python", "docker", "workflow", "dataengineering"]
-published: false
+published: true
 ---
 
 # Prefect 3.0入門 - Docker Composeでローカル環境を構築してDagster・Airflowと比較
