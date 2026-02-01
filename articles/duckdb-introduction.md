@@ -3,7 +3,7 @@ title: "【入門】DuckDBとは？MySQL/PostgreSQLとの違いを手を動か�
 emoji: "🦆"
 type: "tech"
 topics: ["duckdb", "python", "database", "データエンジニアリング", "分析"]
-published: false
+published: true
 ---
 
 ## 🚀 忙しい人のためのDuckDB 3行要約
