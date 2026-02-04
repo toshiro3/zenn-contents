@@ -3,7 +3,7 @@ title: "LaravelのAPIドキュメント生成ツール比較：Scribe vs Scrambl
 emoji: "📄"
 type: "tech"
 topics: ["Laravel", "PHP", "API", "OpenAPI"]
-published: false
+published: true
 ---
 
 ## はじめに
