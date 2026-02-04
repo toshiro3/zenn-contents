@@ -3,7 +3,7 @@ title: "【Laravel × Next.js】Scramble + Orvalで型安全なAPI開発を試�
 emoji: "🔗"
 type: "tech"
 topics: ["laravel", "nextjs", "typescript", "openapi", "reactquery"]
-published: false
+published: true
 ---
 
 ## はじめに
