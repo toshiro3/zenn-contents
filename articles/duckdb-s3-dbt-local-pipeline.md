@@ -3,7 +3,7 @@ title: "DuckDB + S3 + dbt でローカルデータパイプラインを構築し
 emoji: "🦆"
 type: "tech"
 topics: ["duckdb", "dbt", "s3", "minio", "dataengineering"]
-published: false
+published: true
 ---
 
 ## はじめに
