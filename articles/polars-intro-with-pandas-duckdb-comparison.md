@@ -3,7 +3,7 @@ title: "Polars入門 ── 基本操作からpandas・DuckDBとの使い分け�
 emoji: "🐻‍❄️"
 type: "tech"
 topics: ["polars", "python", "pandas", "duckdb", "dataengineering"]
-published: false
+published: true
 ---
 
 ## はじめに
