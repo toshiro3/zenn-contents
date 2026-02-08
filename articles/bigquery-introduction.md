@@ -3,7 +3,7 @@ title: "【BigQuery入門】DuckDBユーザーが初めてクラウドDWHを触�
 emoji: "🔍"
 type: "tech"
 topics: ["BigQuery", "GCP", "SQL", "DuckDB", "データエンジニアリング"]
-published: false
+published: true
 ---
 
 ## はじめに
