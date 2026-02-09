@@ -3,7 +3,7 @@ title: "BigQuery + dbt でデータパイプラインを構築してみた【Duc
 emoji: "🔄"
 type: "tech"
 topics: ["bigquery", "dbt", "dataengineering", "gcp", "sql"]
-published: false
+published: true
 ---
 
 ## はじめに
