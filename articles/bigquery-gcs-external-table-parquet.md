@@ -3,7 +3,7 @@ title: "BigQuery × GCS外部テーブルでParquetファイルをそのまま�
 emoji: "🔍"
 type: "tech"
 topics: ["BigQuery", "GoogleCloudStorage", "GCS", "Parquet", "DataEngineering"]
-published: false
+published: true
 ---
 
 ## はじめに
