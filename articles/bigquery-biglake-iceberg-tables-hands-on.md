@@ -3,7 +3,7 @@ title: "BigQuery × Apache Iceberg 入門 ― BigLake Icebergテーブルを SQL
 emoji: "🧊"
 type: "tech"
 topics: ["BigQuery", "ApacheIceberg", "GoogleCloud", "BigLake", "データエンジニアリング"]
-published: false
+published: true
 ---
 
 ## はじめに
