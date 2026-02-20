@@ -3,7 +3,7 @@ title: "MySQLエンジニアがPostgreSQLを触ってみた【データ型編】
 emoji: "🐘"
 type: "tech"
 topics: ["PostgreSQL", "MySQL", "Database", "SQL", "Docker"]
-published: false
+published: true
 ---
 
 ## はじめに
